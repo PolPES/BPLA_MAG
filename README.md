@@ -18,7 +18,6 @@
 Стек технологий:  
   Visual Studio Code  
   Python 3.11.9  
-  Mission Planner 1.3.81
 
 Необходимые библиотеки:  
   pandas  
