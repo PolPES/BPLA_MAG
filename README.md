@@ -84,4 +84,4 @@ FGX_nT, FGY_nT, FGZ_nT - компоненты магнитного поля.
 
 # Видеодемонстрация
 
-апр
+https://github.com/PolPES/BPLA_MAG/blob/main/BPLA_MAG_VIDEO.mp4
